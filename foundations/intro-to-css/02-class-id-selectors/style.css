@@ -1,0 +1,19 @@
+#two{
+    color: blue;
+    font-size: 36px;
+}
+
+p:nth-child( odd ){
+    background-color: rgb(220, 136, 136);
+    font-family: Verdana, DejaVu Sans, sans-serif;
+}
+
+.three{
+    font-size: 24px;
+}
+
+#four{
+    background-color: rgb(171, 229, 113);
+    font-size: 24px;
+    font-weight: bold;
+}
