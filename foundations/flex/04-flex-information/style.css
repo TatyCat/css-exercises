@@ -24,3 +24,26 @@ img {
   justify-content: center;
   background: #eee;
 }
+
+.title {
+  padding: 32px;
+}
+
+.plants {
+  display: flex;
+  gap: 52px;
+  /* Their solution */
+  justify-content: center;
+  
+}
+/* My Solution */
+/*
+.plant{
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+} */
+
+body{
+  text-align: center;
+}
